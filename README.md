@@ -1,8 +1,8 @@
 # Logistic Regression and SVM Classifier on Iris and Breast Cancer Datasets
 
 ## GPT histry
-[SVM](https://chatgpt.com/share/6725c4ce-22ac-800c-8ed4-cb34c657510b)
-[Deploy](https://chatgpt.com/share/6725c4ea-4d14-800c-878b-75ee2c37c1d2)
+- [SVM](https://chatgpt.com/share/6725c4ce-22ac-800c-8ed4-cb34c657510b)  
+- [Deploy](https://chatgpt.com/share/6725c4ea-4d14-800c-878b-75ee2c37c1d2)
 
 ## Overview
 This Streamlit application allows users to interactively train and visualize Logistic Regression and Support Vector Machine (SVM) classifiers on the Iris and Breast Cancer datasets. The app provides functionalities for parameter tuning, model evaluation, and visual representation of decision boundaries.
