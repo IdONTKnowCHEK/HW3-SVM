@@ -1,6 +1,6 @@
 # Logistic Regression and SVM Classifier on Iris and Breast Cancer Datasets
 
-## GPT histry
+## GPT history
 - [SVM](https://chatgpt.com/share/6725c4ce-22ac-800c-8ed4-cb34c657510b)  
 - [Deploy](https://chatgpt.com/share/6725c4ea-4d14-800c-878b-75ee2c37c1d2)
 
